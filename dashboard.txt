@@ -106,12 +106,12 @@ Virtual Machines=Virtuelle maskiner
 Temp=Temperatur
 
 ; New entries (2) - 2021-05-08
-%s ago=
+%s ago=%s siden
 Only PNG images are allowed=Only PNG images are allowed!
 
 ; New entries (1) - 2021-05-15
-SMART health-check failed=
+SMART health-check failed=SMART helsekontroll mislykket
 
 ; New entries (2) - 2021-05-20
-Click to toggle CPU chart=
-Network traffic=
+Click to toggle CPU chart=Klikk for å bytte CPU diagram
+Network traffic=Nettverkstrafikk
